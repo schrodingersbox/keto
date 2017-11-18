@@ -6,7 +6,7 @@ I am just "some guy", not a doctor or nutritionist.
 
 I did a lot of research on this subject and used it myself for about a year with great results before falling off the wagon.
 
-I also co-founded a company (which I'm no longer associated with) employing some of the principles of the ketogenic dient, 
+I also co-founded a company (which I'm no longer associated with) employing some of the principles of the ketogenic diet, 
 [Restore Health](http://www.restorehealth.com), which had fantastic results.
 
 ## Definitions
