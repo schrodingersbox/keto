@@ -20,13 +20,12 @@ A ketogenic diet is "fat heavy" and very low sugar.
 ### Keto adapted
 
 If you've been eating a standard American diet for a long time, 
-it actually take a while for your body to adjust to the new diet and re-learn how to run on fat.
-This is referred to as "keto adapted".
+it actually takes a while for your body to adjust to the new diet and re-learn how to run on fat.
+This is referred to as "keto adapted".  For me, this process took several weeks.  
 
 ### Keto flu
 
-For me, this process took several weeks.  
-I actually went through sugar withdrawl and had a short period where I felt like I had the flu.
+I actually went through sugar withdrawl and had a few days where I felt like I had the flu.
 This is referred to as "keto flu".
 The day it passed, I felt fantastic.  Full of energy, alert, and just in a much better mood.
 
@@ -36,7 +35,7 @@ The day it passed, I felt fantastic.  Full of energy, alert, and just in a much 
 
 You should figure out "net carbs", which subtracts out the fiber because it doesn't turn into sugar.
 "Total carbs" minus "fiber" is a good approximation.  
-Google it if you want a more accurate calculation or more details.
+Google it if you want a more accurate calculation or details.
 
 ### Ketone test strips
 
@@ -45,7 +44,7 @@ can be a great way to "dial in" when you're first getting into ketosis to see if
 
   1.  Darker is not better.  It's likea pregnancy test.  You're either in or out.  There is no degree.
 
-  2.  As your body becomes keto adapted, you will burn more ketones and pee out less.  After your body adjusts, 
+  2.  As your body becomes keto adapted, you will burn more ketones and eliminate less.  After your body adapts, 
   you could be in keto and still not change the color of a strip.
 
 ### Drink lots of water
@@ -56,7 +55,7 @@ IIRC, ketone metabolism uses more water than sugar metabolism.
 
 All the water you drink flushes out electrolytes.  If you get low on these, you can end up feeling groggy and crappy.
 
-I used two:
+I used two supplements:
 
   1.  [Lite Salt](https://www.amazon.com/Morton-Lite-Salt-Sodium-Table/dp/B0005YM0UY) - includes potassium as well as sodium.  
   Use it liberally.
@@ -66,7 +65,7 @@ I used two:
 I honestly no longer recall the process I used to settle on these,
 but was feeling a bit wiped out about 3 months into the diet and these fixed it.    
 
-### A Crock Pot is your friend
+### A Crock Pot Is Your Friend
 
 Personally, I found using a crock pot to make a batch of "low carb" or "keto friendly" food was a great was to stay on track.
 Easy to make a batch of food, and having it handy kept me from looking for other things to eat.
