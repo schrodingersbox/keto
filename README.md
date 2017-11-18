@@ -15,6 +15,7 @@ I also co-founded a company (which I'm no longer associated with) employing some
 
 The human body can run happily on two different fuel sources:  fat or sugar.  
 When you give it both at the same time, your body burns the sugar and stores the fat.
+
 A ketogenic diet is "fat heavy" and very low sugar.  
 
 ### Keto adapted
