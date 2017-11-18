@@ -107,6 +107,11 @@ So, if all you eat is  jerky and steaks, you won't actually get int ketosis.  It
 If you find yourself craving baked good, almond flour is a good substitute.  
 I used to make almond flour muffins to grab on the way out the door in the morning.
 
+### Alcohol
+
+When you are in ketosis, your tolerance to alcohol is **greatly reduced**.  
+Ideally, avoid alcohol entirely, but if you must drink, pace yourself and have much less than you normally would. 
+
 ## Resources
 
 ### r/keto: Keto in a Nutshell
